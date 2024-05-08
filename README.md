@@ -1,5 +1,5 @@
 ### Shashank Pandey 👋
-![](https://dcbadge.vercel.app/api/shield/1201129677457215558)
+![](https://dcbadge.limes.pink/api/shield/1201129677457215558)
 
 - 🔭 I’m currently working on Flask Projects.
 - 🌱 I’m currently learning C,DBMS.
