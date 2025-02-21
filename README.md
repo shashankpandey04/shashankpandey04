@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shashankpandey04)](https://git.io/streak-stats)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=shashankpandey04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankpandey04&show_icons=true&theme=radical)  
 
