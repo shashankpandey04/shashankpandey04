@@ -1,27 +1,34 @@
 # Shashank Pandey 👋  
-![](https://dcbadge.limes.pink/api/shield/1201129677457215558)  
+![](https://dcbadge.limes.pink/api/shield/1201129677457215558)
 
-🚀 **Tech Enthusiast | Open-Source Contributor | Web Developer**  
-
-## 🌟 About Me  
-- 🔭 I’m currently learning **Next.js & TypeScript**  
-- 🌱 Exploring **AI & Full-Stack Development**  
-- 💬 Ask me about **React, JavaScript, and Web Development**  
-- 📫 Reach me at: [Gmail](mailto:contact.shashankpandey04@gmail.com)  
-- ⚡ Fun Fact: I love solving **DSA problems** & playing **video games** 🎮  
+🚀 **Full-Stack Dev | AI Explorer | Rust Rookie | Defense & Satellite Comms Enthusiast**
 
 ---
 
-## 🚀 Tech Stack  
+## 🧠 About Me
+- 🔭 Currently diving deep into **Node.js**, **React.js**, and **AI/ML with Python**
+- 🛰️ Low-key obsessed with **Satellite Communication**, **Missile Tech**, and **RTOS**
+- 🔧 Exploring how **embedded systems**, **signal processing**, and **secure comms** work
+- 💡 ADHD-powered — always bouncing between web apps and defense docs
+- 💬 Ask me about **Web Dev**, **AI libraries**, or **how satellites talk to Earth**
+- 📫 Contact me: [contact.shashankpandey04@gmail.com](mailto:contact.shashankpandey04@gmail.com)
+- 🎮 Fun Fact: Can debug JavaScript while watching missile test footage
+
+---
+
+## 🛠 Tech Stack  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -44,4 +51,4 @@
 
 ---
 
-⭐ **Star my repos if you like them!** ⭐  
+⭐ *Star my repos if you're into chaotic-good code, or if you just like satellites and semicolons* 🛰️
