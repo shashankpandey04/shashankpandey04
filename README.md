@@ -115,32 +115,18 @@ const shashank = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankpandey04&repo=your-top-repo&theme=tokyonight)](https://github.com/shashankpandey04/your-top-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankpandey04&repo=another-cool-project&theme=tokyonight)](https://github.com/shashankpandey04/another-cool-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankpandey04&repo=Cyni&theme=tokyonight)](https://github.com/shashankpandey04/Cyni)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankpandey04&repo=Event-Mailer&theme=tokyonight)](https://github.com/shashankpandey04/Event-Mailer)
 
 </div>
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=n4evgquoduby498gkpjg5xpix&count=1" alt="Spotify recently played"/>
-</div>
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 ## 📈 Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shashankpandey04&theme=tokyonight" alt="WakaTime Stats"/>
+ [![Shashank GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankpandey04)](https://github.com/shashankpandey04)
 </div>
 
 ---
