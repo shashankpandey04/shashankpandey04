@@ -122,15 +122,6 @@ const shashank = {
 
 ---
 
-
-## 📈 Coding Stats
-
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=shashankpandey04">
-</div>
-
----
-
 ## 🌟 Random Dev Quote
 
 <div align="center">
