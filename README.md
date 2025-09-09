@@ -24,7 +24,7 @@ const shashank = {
   askMeAbout: ["web dev", "AI/ML", "satellite communications", "embedded systems"],
   technologies: {
     frontEnd: {
-      js: ["React", "Next.js", "Vue"],
+      js: ["React", "Svelte.js", "Vue"],
       css: ["Tailwind", "Bootstrap", "Styled Components"]
     },
     backEnd: {
@@ -94,7 +94,7 @@ const shashank = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shashankpandey04&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=shashankpandey04&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
