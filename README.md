@@ -94,7 +94,7 @@ const shashank = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shashankpandey04&theme=dark&hide_border=true" alt="Streak Graph">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shashankpandey04&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
