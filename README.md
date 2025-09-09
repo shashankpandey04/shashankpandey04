@@ -93,9 +93,7 @@ const shashank = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpandey04&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shashankpandey04&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shashankpandey04&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankpandey04&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
