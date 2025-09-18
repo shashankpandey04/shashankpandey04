@@ -88,11 +88,6 @@ const shashank = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankpandey04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpandey04&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=shashankpandey04&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
