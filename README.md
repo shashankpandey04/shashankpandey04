@@ -24,7 +24,7 @@ const shashank = {
   askMeAbout: ["web dev", "AI/ML", "satellite communications", "embedded systems"],
   technologies: {
     frontEnd: {
-      js: ["React", "Svelte.js", "Vue"],
+      js: ["React", "Svelte.js", "Next.js"],
       css: ["Tailwind", "Bootstrap", "Styled Components"]
     },
     backEnd: {
