@@ -1,148 +1,57 @@
-# Hey there! I'm Shashank Pandey 👋
+# Shashank Pandey
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Explorer;Satellite+Communications+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
-</div>
+Full-Stack Web Developer specializing in backend systems and production-grade applications.
 
-<div align="center">
-  
-  ![Discord](https://dcbadge.limes.pink/api/shield/1201129677457215558)
-  ![Profile Views](https://komarev.com/ghpvc/?username=shashankpandey04&color=blueviolet&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/shashankpandey04?label=Followers&style=social)](https://github.com/shashankpandey04?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/shashankpandey04?label=Stars&style=social)](https://github.com/shashankpandey04)
-  
-</div>
+[Portfolio](https://shashankpandey.xyz) • [LinkedIn](https://www.linkedin.com/in/shashankpandey04/) • [Twitter](https://x.com/ShashankP04) • [Email](mailto:contact.shashankpandey04@gmail.com)
 
 ---
 
-## 🚀 About Me
+## About
 
-```typescript
-const shashank = {
-  pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "Python", "Rust", "HTML", "CSS"],
-  askMeAbout: ["web dev", "AI/ML", "satellite communications", "embedded systems"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Svelte.js", "Next.js"],
-      css: ["Tailwind", "Bootstrap", "Styled Components"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      python: ["FastAPI", "Django"]
-    },
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    misc: ["Docker", "AWS", "Git", "Linux"]
-  },
-  currentFocus: "Building AI-powered web applications",
-  funFact: "I can debug JavaScript while analyzing satellite trajectories 🛰️"
-};
-```
+Building scalable web applications with Python and Node.js backends. Experienced in designing authentication systems, RBAC, payment integrations, and API-driven platforms serving 50k+ users. Currently juggling multiple projects including a Hospital Management System.
 
-<details>
-<summary>🎯 What I'm Currently Up To</summary>
-<br>
-
-- 🔭 Deep diving into **Advanced React Patterns** and **Node.js Microservices**
-- 🤖 Exploring **AI/ML with Python** - building smarter applications
-- 🛰️ Researching **Satellite Communication protocols** and **Signal Processing**
-- 🦀 Learning **Rust** for system-level programming
-- 📡 Studying **RTOS** and **Embedded Systems** for defense applications
-- 💡 ADHD-powered productivity - always juggling multiple exciting projects!
-
-</details>
+**Right now:** Working on production systems at FounDev Studio, exploring Django, and building real-world solutions that actually ship.
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
-<div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Other
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+**Frontend:** React, Next.js, Svelte, Redux, HTML/CSS, Tailwind  
+**Backend:** Python (Flask, FastAPI), Node.js (Express), learning Django  
+**Languages:** Python, JavaScript, TypeScript, C/C++, PHP  
+**Database:** MongoDB, PostgreSQL, MySQL  
+**DevOps:** Docker, CI/CD, AWS, Linux, Cloudflare
 
 ---
 
-## 📊 GitHub Analytics
+## Featured Projects
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shashankpandey04&theme=dark&hide_border=true)](https://git.io/streak-stats)
+**[Campus Operational Platform](https://awslpu.in)**  
+Production platform with authentication, RBAC, and Cashfree payment integration. Handles student workflows with automated receipt processing and operational reliability.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankpandey04&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
+**[Cyni](https://cyni.quprdigital.tk)**  
+Distributed backend system with async jobs, session-based access control, and optimization for 50k+ registered users. Built with automation and access control at its core.
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashankpandey04&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
+**Hospital Management System** _(In Development)_  
+Full-stack HMS with patient records, appointment scheduling, and role-based dashboards.
 
 ---
 
-## 💼 Featured Projects
+## Achievements
 
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankpandey04&repo=Cyni&theme=tokyonight)](https://github.com/shashankpandey04/Cyni)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shashankpandey04&repo=Event-Mailer&theme=tokyonight)](https://github.com/shashankpandey04/Event-Mailer)
-
-</div>
+- **50k+ Users** - Built and scaled production systems serving thousands of registered users
+- **AWS Cloud Captain** - Conducted 4+ technical workshops impacting 1k+ students on backend systems and cloud deployment
+- **Production Revenue** - Designed and operated paid business platforms with payment processing and zero-downtime deployments
+- **Real-world Problem Solver** - Handled abuse incidents, reliability challenges, and high-traffic scenarios on live systems
 
 ---
 
-## 🌟 Random Dev Quote
+## GitHub Activity
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashankpandey04&theme=github-compact&hide_border=true&bg_color=0D1117)
 
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankpandey04/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShashankP04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shashankpandey04.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.shashankpandey04@gmail.com)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=shashankpandey04&color=blueviolet&style=flat-square)
 
 ---
 
-<div align="center">
-  
-### 🎯 "Building tomorrow's solutions with today's code"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-
-⭐ **Star my repositories if you find them interesting!**  
-🛰️ **Bonus points if you're into satellites and semicolons like me!**
-
-</div>
+_Lucknow, India • Open to collaborations and interesting projects_
