@@ -1,6 +1,7 @@
 # Shashank Pandey
 
-Full-Stack Web Developer specializing in backend systems and production-grade applications.
+Backend & Cloud Engineer building scalable production systems  
+🚀 Production systems serving 50k+ users | AWS-focused backend architecture
 
 [Portfolio](https://shashankpandey.xyz) • [LinkedIn](https://www.linkedin.com/in/shashankpandey04/) • [Twitter](https://x.com/ShashankP04) • [Email](mailto:contact.shashankpandey04@gmail.com)
 
@@ -16,11 +17,21 @@ Building scalable web applications with Python and Node.js backends. Experienced
 
 ## Tech Stack
 
-**Frontend:** React, Next.js, Svelte, Redux, HTML/CSS, Tailwind  
-**Backend:** Python (Flask, FastAPI), Node.js (Express), learning Django  
-**Languages:** Python, JavaScript, TypeScript, C/C++, PHP  
-**Database:** MongoDB, PostgreSQL, MySQL  
-**DevOps:** Docker, CI/CD, AWS, Linux, Cloudflare
+**Backend:** Python (FastAPI, Flask), Node.js (Express), Django (actively integrating into new systems)
+**Cloud & DevOps:** AWS, Docker, CI/CD, Linux, Cloudflare  
+**Database:** PostgreSQL, MongoDB, MySQL  
+**Frontend:** React, Next.js, Svelte, Tailwind  
+**Languages:** Python, TypeScript, JavaScript, C/C++, PHP
+
+---
+
+## Engineering Focus
+
+• Scalable backend architecture  
+• Authentication & RBAC systems  
+• Payment and billing integrations  
+• Async job processing & automation  
+• Cloud-native deployment on AWS
 
 ---
 
@@ -48,9 +59,14 @@ Full-stack HMS with patient records, appointment scheduling, and role-based dash
 
 ## GitHub Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashankpandey04&theme=github-compact&hide_border=true&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankpandey04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=shashankpandey04&theme=github-dark&hide_border=true&background=0D1117" height="165"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shashankpandey04&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpandey04&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="165"/>
+</p>
 
 ---
 
