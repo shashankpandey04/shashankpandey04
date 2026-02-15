@@ -60,16 +60,17 @@ Full-stack HMS with patient records, appointment scheduling, and role-based dash
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashankpandey04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=shashankpandey04&theme=github-dark&hide_border=true&background=0D1117" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashankpandey04&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=shashankpandey04&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashankpandey04&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashankpandey04&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankpandey04&theme=github-compact&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankpandey04&theme=github-compact&hide_border=true"/>
 </p>
----
+
+
 _Lucknow, India • Open to collaborations and interesting projects_
