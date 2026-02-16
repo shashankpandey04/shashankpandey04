@@ -18,7 +18,6 @@ Building scalable web applications with Python and Node.js backends. Experienced
 ## Tech Stack
 
 **Backend:** Python (FastAPI, Flask), Node.js (Express), Django (actively integrating into new systems)
-
 **Cloud & DevOps:** AWS, Docker, CI/CD, Linux, Cloudflare  
 **Database:** PostgreSQL, MongoDB, MySQL  
 **Frontend:** React, Next.js, Svelte, Tailwind  
