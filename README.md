@@ -1,27 +1,27 @@
 # Shashank Pandey
 
-Backend & Cloud Engineer building scalable production systems  
-🚀 Production systems serving 50k+ users | AWS-focused backend architecture
+Backend Engineer | Scalable APIs & Real-Time Systems  
+Built production systems serving 20k+ users | FastAPI, Django, Node.js | AWS & CI/CD
 
 [Portfolio](https://shashankpandey.xyz) • [LinkedIn](https://www.linkedin.com/in/shashankpandey04/) • [Twitter](https://x.com/ShashankP04) • [Email](mailto:contact.shashankpandey04@gmail.com)
 
 ---
 
 ## About
+Backend engineer focused on building scalable APIs, real-time systems, and production platforms.
 
-Building scalable web applications with Python and Node.js backends. Experienced in designing authentication systems, RBAC, payment integrations, and API-driven platforms serving 50k+ users. Currently juggling multiple projects including a Hospital Management System.
+Built and deployed systems used by 20k+ users, including automation platforms and event-driven workflows. Experienced in authentication, RBAC, payment integrations, and API design.
 
-**Right now:** Working on production systems at FounDev Studio, exploring Django, and building real-world solutions that actually ship.
-
+Currently working on production backend systems at FounDev Studio and exploring scalable architectures using Django and FastAPI.
 ---
 
 ## Tech Stack
 
-**Backend:** Python (FastAPI, Flask), Node.js (Express), Django (actively integrating into new systems)
-**Cloud & DevOps:** AWS, Docker, CI/CD, Linux, Cloudflare  
-**Database:** PostgreSQL, MongoDB, MySQL  
+**Backend:** FastAPI, Flask, Django, Node.js (Express)  
 **Frontend:** React, Next.js, Svelte, Tailwind  
-**Languages:** Python, TypeScript, JavaScript, C/C++, PHP
+**Database:** PostgreSQL, MongoDB, MySQL  
+**Cloud & DevOps:** AWS, Docker, CI/CD, Linux, Cloudflare  
+**Languages:** Python, TypeScript, JavaScript, C/C++
 
 ---
 
@@ -41,7 +41,8 @@ Building scalable web applications with Python and Node.js backends. Experienced
 Production platform with authentication, RBAC, and Cashfree payment integration. Handles student workflows with automated receipt processing and operational reliability.
 
 **[Cyni](https://cyni.quprdigital.tk)**  
-Distributed backend system with async jobs, session-based access control, and optimization for 50k+ registered users. Built with automation and access control at its core.
+Automation platform used across 290+ communities and 20,000+ users.  
+Built real-time backend system using WebSockets and event-driven workflows with role-based access control.
 
 **Hospital Management System** _(In Development)_  
 Full-stack HMS with patient records, appointment scheduling, and role-based dashboards.
@@ -50,11 +51,9 @@ Full-stack HMS with patient records, appointment scheduling, and role-based dash
 
 ## Achievements
 
-- **50k+ Users** - Built and scaled production systems serving thousands of registered users
-- **AWS Cloud Captain** - Conducted 4+ technical workshops impacting 1k+ students on backend systems and cloud deployment
-- **Production Revenue** - Designed and operated paid business platforms with payment processing and zero-downtime deployments
-- **Real-world Problem Solver** - Handled abuse incidents, reliability challenges, and high-traffic scenarios on live systems
-
+- Built and maintained production systems serving 20k+ users  
+- AWS Cloud Captain — led backend/cloud workshops and technical sessions  
+- Designed and operated platforms with real payment integrations and live users  
 ---
 
 ## GitHub Activity
