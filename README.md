@@ -10,7 +10,7 @@ Built production systems serving 40k+ users | FastAPI, Django, NodeJS, NextJS | 
 ## About
 
 Backend engineer focused on building scalable APIs, real-time systems, and production platforms.
-Built and deployed systems used by 20k+ users, including automation platforms and event-driven workflows. Experienced in authentication, RBAC, payment integrations, and API design.
+Built and deployed systems used by 40k+ users, including automation platforms and event-driven workflows. Experienced in authentication, RBAC, payment integrations, and API design.
 Currently working on production backend systems at FounDev Studio and exploring scalable architectures using Django and FastAPI.
 
 ---
