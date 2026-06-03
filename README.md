@@ -1,7 +1,7 @@
 # Shashank Pandey
 
-Backend Engineer | Scalable APIs & Real-Time Systems  
-Built production systems serving 20k+ users | FastAPI, Django, Node.js | AWS & CI/CD
+Backend & Platform Engineer | Technical Speaker | Community Builder | Ex-AWS Student Builder Group & Campus Leader | Building systems at scale
+Built production systems serving 40k+ users | FastAPI, Django, NodeJS, NextJS | AWS & CI/CD
 
 [Portfolio](https://shashankpandey.xyz) • [LinkedIn](https://www.linkedin.com/in/shashankpandey04/) • [Twitter](https://x.com/ShashankP04) • [Email](mailto:contact.shashankpandey04@gmail.com)
 
@@ -52,7 +52,8 @@ Full-stack HMS with patient records, appointment scheduling, and role-based dash
 ## Achievements
 
 - Built and maintained production systems serving 20k+ users  
-- AWS Cloud Captain — led backend/cloud workshops and technical sessions  
+- AWS Student Builder Group Leader — led backend/cloud workshops and technical sessions
+- AWS Student Builder Campus Leader
 - Designed and operated platforms with real payment integrations and live users  
 ---
 
@@ -72,4 +73,4 @@ Full-stack HMS with patient records, appointment scheduling, and role-based dash
 </p>
 
 
-_Lucknow, India • Open to collaborations and interesting projects_
+_India • Open to collaborations and interesting projects_
