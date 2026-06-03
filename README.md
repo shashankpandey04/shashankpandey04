@@ -1,6 +1,6 @@
 # Shashank Pandey
 
-Backend & Platform Engineer | AWS New Voices | Technical Speaker | Community Builder | Ex-AWS Student Builder Group & Campus Leader
+Backend & Platform Engineer | AWS New Voices | Technical Speaker | Community Builder | Ex-AWS Student Builder Group & Campus Leader.
 Built production systems serving 40k+ users | FastAPI, Django, NodeJS, NextJS | AWS & CI/CD
 
 [Portfolio](https://shashankpandey.xyz) • [LinkedIn](https://www.linkedin.com/in/shashankpandey04/) • [Twitter](https://x.com/ShashankP04) • [Email](mailto:contact.shashankpandey04@gmail.com)
