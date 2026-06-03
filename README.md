@@ -41,11 +41,11 @@ Currently working on production backend systems at FounDev Studio and exploring 
 Production platform with authentication, RBAC, and Cashfree payment integration. Handles student workflows with automated receipt processing and operational reliability.
 
 **[Cyni](https://cyni.quprdigital.tk)**  
-Automation platform used across 290+ communities and 20,000+ users.  
+Automation platform used across 300+ communities and 40,000+ users.  
 Built real-time backend system using WebSockets and event-driven workflows with role-based access control.
 
-**Hospital Management System** _(In Development)_  
-Full-stack HMS with patient records, appointment scheduling, and role-based dashboards.
+**PlusVenue** _(In Development)_  
+Service Based Event Management SaaS
 
 ---
 
