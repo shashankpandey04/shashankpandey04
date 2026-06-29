@@ -3,7 +3,7 @@
 Backend & Platform Engineer | AWS New Voices | Technical Speaker | Community Builder | Ex-AWS Student Builder Group & Campus Leader.
 Built production systems serving 40k+ users | FastAPI, Django, NodeJS, NextJS | AWS & CI/CD
 
-[Portfolio](https://shashankpandey.xyz) • [LinkedIn](https://www.linkedin.com/in/shashankpandey04/) • [Twitter](https://x.com/ShashankP04) • [Email](mailto:contact.shashankpandey04@gmail.com)
+[Portfolio](https://shashankpandey04.netlify.app) • [LinkedIn](https://www.linkedin.com/in/shashankpandey04/) • [Twitter](https://x.com/ShashankP04) • [Email](mailto:contact.shashankpandey04@gmail.com)
 
 ---
 
@@ -18,7 +18,7 @@ Currently working on production backend systems at FounDev Studio and exploring 
 ## Tech Stack
 
 **Backend:** FastAPI, Flask, Django, Node.js (Express)  
-**Frontend:** React, Next.js, Svelte, Tailwind  
+**Frontend:** React, Next.js, Tailwind  
 **Database:** PostgreSQL, MongoDB, MySQL  
 **Cloud & DevOps:** AWS, Docker, CI/CD, Linux, Cloudflare  
 **Languages:** Python, TypeScript, JavaScript, C/C++
@@ -51,7 +51,7 @@ Service Based Event Management SaaS
 
 ## Achievements
 
-- Built and maintained production systems serving 20k+ users  
+- Built and maintained production systems serving 40k+ users  
 - AWS Student Builder Group Leader — led backend/cloud workshops and technical sessions
 - AWS Student Builder Campus Leader
 - Designed and operated platforms with real payment integrations and live users  
