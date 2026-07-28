@@ -4,8 +4,6 @@
 
 I build production-grade backend systems, scalable APIs, and cloud-native platforms using **Python, FastAPI, Django, Node.js, PostgreSQL, MongoDB, and AWS**.
 
-Currently building products at **FounDev Studio**, while exploring distributed systems, developer infrastructure, and scalable backend architectures.
-
 <p align="left">
   <a href="https://shashankpandey04.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -32,6 +30,19 @@ Currently building products at **FounDev Studio**, while exploring distributed s
 * Experienced with Authentication, RBAC, Payments & Event-driven Systems
 * India
 * Open to internships, collaborations, and backend engineering opportunities
+
+---
+## 🏆 Certifications
+
+<p align="center">
+<a href="https://www.credly.com/badges/1d6c627b-0848-4b69-b308-842ea22287fd/public_url">
+<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="180"/>
+</a>
+</p>
+
+<p align="center">
+<b>AWS Certified Cloud Practitioner (CLF-C02)</b>
+</p>
 
 ---
 
@@ -121,20 +132,6 @@ Automation platform serving **300+ communities** and **40,000+ users**.
 * Authentication Systems
 * Event-driven Architecture
 * System Design
-
----
-
-## 🏆 Certifications
-
-<p align="center">
-<a href="https://www.credly.com/badges/1d6c627b-0848-4b69-b308-842ea22287fd/public_url">
-<img src="https://images.credly.com/size/340x340/images/6845b4a3-2f0d-4f8b-b9d8-7d8b3b5b71a4/image.png" width="180"/>
-</a>
-</p>
-
-<p align="center">
-<b>AWS Certified Cloud Practitioner (CLF-C02)</b>
-</p>
 
 ---
 
